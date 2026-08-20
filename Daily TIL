@@ -1,0 +1,2 @@
+- Learned how Django `manage.py runserver` uses StatReloader.
+- Used `python -m venv venv` to isolate dependencies.
